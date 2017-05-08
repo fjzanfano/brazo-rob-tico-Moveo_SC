@@ -1,12 +1,13 @@
 # brazo-rob-tico-Moveo_SC
-Brazo robótico basaso en Moveo (BCN3dTechnologies) fabricado en el CIFP Santa Catalina de Aranda de Duero
+Este es un proyecto basado en el brazo robótico  Moveo (https://github.com/BCN3D/BCN3D-Moveo) desarrollado por BCN3DTech , y fabricado en el CIFP Santa Catalina de Aranda de Duero
 
-Trabajo desarrollado entre Noviembre del 2016 y abril del 2017
+El proyecto se desarrolló entre Noviembre del 2016 y abril del 2017, y fué presentado al concurso de robótica nacional Malakabot
 
-Presentado al concurso de robótica nacional Malakabot
 
-Impresión: Joaquín Cubillo
+En el proyecto han participado: 
 
-Montaje y cableado: Jesús Gutiérrez y Luciano Gonazalo
+- Impresión: Joaquín Cubillo
 
-Electrónica y programación: Francisco Javier Zanfaño
+- Montaje y cableado: Jesús Gutiérrez y Luciano Gonazalo
+
+- Electrónica y programación: Francisco Javier Zanfaño
